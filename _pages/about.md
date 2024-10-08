@@ -11,4 +11,8 @@ Thanks for visiting my website! I am a final-semester Master's student in neurol
 
 Alaa's Personal Website
 ======
-Feel free to explore the links above to learn more about me!
+Recent Poster Presentation: AMLap2024, Edinburgh University, Scotland
+September 5-7, 2024
+
+Presentation:
+(L1 Impact on L2 Japanese Processing: A Dual-Site tDCS Study, Alaa M. Salem, Daniel Gallagher, Emi Yamada, Shinri Ohta)
