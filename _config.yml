@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Alaa-newphoto.png"
+  avatar           : "images/alaa_newphoto.png"
   name             : "Alaa Mohamed Salem"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Neuroscience of Language"
