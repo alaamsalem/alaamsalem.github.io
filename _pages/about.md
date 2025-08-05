@@ -16,3 +16,8 @@ September 5-7, 2024
 
 Presentation:
 (L1 Impact on L2 Japanese Processing: A Dual-Site tDCS Study, Alaa M. Salem, Daniel Gallagher, Emi Yamada, Shinri Ohta)
+
+(Dual-Site tDCS Boosts ERP Responses in Non-Native Japanese Processing: Evidence from
+Chinese and Korean Speakers)
+Neuroscience2025 Excellence Award for the Training School for Next Generation Scientists 
+Received at the 48th Japan Neuroscience Society International 2025 Conference in Niigata, Japan (July 24–27, 2025). https://neuroscience2025.jnss.org/img/YouthTrainingProgram_Awardees_20250805.pdf 
