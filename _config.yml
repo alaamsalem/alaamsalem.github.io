@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Alaa M. Salem / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alaa M. Salem"
 description              : &description "personal description"
 url                      : https://alaamsalem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : 
@@ -24,7 +24,7 @@ author:
   avatar           : "alaa_photo.png"
   name             : "Alaa Mohamed Salem"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in Neuroscience of Language"
+  bio              : "A PhD candidate in Neuroscience of Language"
   location         : "Fukuoka, Japan"
   employer         : "Kyushu University"
   uri              : # URL
